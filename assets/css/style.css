@@ -1346,9 +1346,16 @@ footer .copy-right p {
 }
 
 /*** ### Post Page ### ***/
+.paralelo15-img {
+	background: url(../images/paralelo15.png) center center no-repeat;
+}
+
+.universo-sensorial-img {
+	
+}
+
 .post-hero-section {
 	position: relative;
-	background: url(../images/post-hero-section.png) center center no-repeat;
 	background-size: cover;
 	padding: 110px 0px 220px 0px;
 	z-index: 2;
