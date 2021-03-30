@@ -94,8 +94,9 @@ header .logo a {
 	vertical-align: middle;
 	text-decoration: none;
 	color: #FFFFFF;
-	font-size: 16px;
+	font-size: 1.5em;
 	font-weight: 400;
+	line-height: 3;
 	outline: none;
 }
 
@@ -1347,11 +1348,11 @@ footer .copy-right p {
 
 /*** ### Post Page ### ***/
 .paralelo15-img {
-	background: url(../images/paralelo15.png) center center no-repeat;
+	background: url(../images/blog/paralelo15.png) center center no-repeat;
 }
 
 .universo-sensorial-img {
-	
+	background: url(../images/blog/chuveirinho.jpg) center center no-repeat;
 }
 
 .post-hero-section {
