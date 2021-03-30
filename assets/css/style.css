@@ -39,8 +39,7 @@ iframe {
 
 /*** ### Header ### ***/
 header {
-	position: sticky;
-	position: -webkit-sticky;
+	position: static;
 	top: 0px;
 	left: 0px;
 	padding: 12px 0px;
