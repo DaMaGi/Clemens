@@ -1028,6 +1028,7 @@ footer .copy-right p {
 
 .product-main-content .product-boxes .boxes .company-logo {
 	position: relative;
+	margin: 24px 0;
 }
 
 .product-main-content .product-boxes .boxes .images-box {
@@ -1480,6 +1481,7 @@ footer .copy-right p {
 	font-weight: 400;
 	margin: 0px 0px 30px 0px;
 	padding: 0px;
+	text-indent: 24px;
 }
 
 @media (max-width:1199px) {
@@ -1500,6 +1502,7 @@ footer .copy-right p {
 		font-size: 16px;
 		line-height: 30px;
 		margin: 0px 0px 20px 0px;
+		text-indent: 24px;
 	}
 }
 
@@ -1521,6 +1524,7 @@ footer .copy-right p {
 		font-size: 16px;
 		line-height: 30px;
 		margin: 0px 0px 20px 0px;
+		text-indent: 24px;
 	}
 }
 
@@ -1540,6 +1544,7 @@ footer .copy-right p {
 
 	.post-main-content .post-content p {
 		font-size: 15px;
+		text-indent: 24px;
 	}
 }
 
