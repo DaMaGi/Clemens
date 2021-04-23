@@ -78,11 +78,11 @@
                     <div class="row">
                         <div class="col-md-10">
                             <div class="right-box">
-                                <form action="sendto:contato@clemenschocolate.com?subject=Contato%20Web" method="post" enctype="multipart/form-data">
-                                    <input type="text" name="Nome" placeholder="Seu nome" />
-                                    <input type="text" name="E-mail" placeholder="Seu e-mail" />
-                                    <input type="text" name="Telefone" placeholder="Celular" />
-                                    <textarea type="text" name="Mensagem" placeholder="Escreva sua mensagem."></textarea>
+                                <form name="ContactForm" action="sendto:contato@clemenschocolate.com?subject=Contato%20Web" method="post" enctype="application/x-www-form-urlencoded">
+                                    <input type="text" placeholder="Seu nome" />
+                                    <input type="text" placeholder="Seu e-mail" />
+                                    <input type="text" placeholder="Celular" />
+                                    <textarea type="text" placeholder="Escreva sua mensagem."></textarea>
                                     <button type="submit" value="submit">Enviar ></button>
                                 </form>
                             </div>
