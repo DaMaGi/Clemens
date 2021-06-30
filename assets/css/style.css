@@ -1363,6 +1363,10 @@ footer .copy-right p {
 	background: url(../images/blog/potencia_chocolate.jpg) center center no-repeat;
 }
 
+.beneficios-beantobar-img {
+	background: url(../images/blog/beneficios_beantobar.jpg) center center no-repeat;
+}
+
 .post-hero-section {
 	position: relative;
 	background-size: cover;
