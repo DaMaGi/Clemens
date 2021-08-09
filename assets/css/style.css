@@ -395,6 +395,22 @@ footer .copy-right p {
 	text-align: center;
 }
 
+.home-hero-section button {
+	position: relative;
+	display: inline-block;
+	vertical-align: top;
+	width: 100%;
+	max-width: 206px;
+	height: 57px;
+	color: #221110;
+	font-weight: 600;
+	text-align: center;
+	background: #FF6915;
+	border: 1px solid #FF6915;
+	outline: none;
+	margin: 32px auto;
+}
+
 @media (max-width:1199px) {
 	.home-hero-slider .arrows {
 		width: 30px;
@@ -424,6 +440,12 @@ footer .copy-right p {
 	.home-hero-section h2 {
 		font-size: 20px;
 	}
+
+	.home-hero-section button {
+		max-width: 175px;
+		height: 45px;
+		font-size: 20px;
+	}
 }
 
 @media (max-width:991px) {
@@ -445,6 +467,12 @@ footer .copy-right p {
 	}
 
 	.home-hero-section h2 {
+		font-size: 18px;
+	}
+
+	.home-hero-section button {
+		max-width: 175px;
+		height: 45px;
 		font-size: 18px;
 	}
 }
@@ -471,6 +499,12 @@ footer .copy-right p {
 	}
 
 	.home-hero-section h2 {
+		font-size: 16px;
+	}
+
+	.home-hero-section button {
+		max-width: 150px;
+		height: 40px;
 		font-size: 16px;
 	}
 }
